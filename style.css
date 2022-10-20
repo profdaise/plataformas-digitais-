@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    background: rgb(116, 179, 250);
+
+}
+
+.conteudo{
+    display: flex;
+    text-align: center;
+    align-items: cente;
+    background: rgb(98, 120, 245);
+}
+h2{
+    font-size: 40px;
+}
+p {
+    font-size: 30px;
+}
+#criatividade {
+    width: 50%;
+}
